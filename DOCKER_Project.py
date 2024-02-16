@@ -1,8 +1,6 @@
 # Creating variable to store the number of words in IF
 number_of_words_IF = 0
 
-path2 = '/home/data'
-
 # Open text file in read only mode
 with open("/home/data/IF.txt",'r') as file:
 
